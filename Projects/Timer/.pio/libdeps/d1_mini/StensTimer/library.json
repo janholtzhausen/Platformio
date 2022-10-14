@@ -1,0 +1,20 @@
+{
+  "name": "StensTimer",
+  "keywords": "Timer, StensTimer, callback, member-function, object, multiple, library, repeat, schedule, delay, non-blocking",
+  "description": "An accessible Arduino timer library that enables you to use callbacks on class-instances as well as static callbacks (most commonly used).",
+  "authors": {
+      "name": "Arjen Stens",
+      "email": "me@arjenstens.com",
+      "url": "https://arjenstens.com",
+      "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://gitlab.com/arduino-libraries/stens-timer"
+  },
+  "frameworks": "arduino",
+  "platforms": "*",
+  "license": "GPL-3.0",
+  "version": "1.1.2"
+}

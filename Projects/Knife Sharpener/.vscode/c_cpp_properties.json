@@ -1,0 +1,70 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/Users/janh/Documents/PlatformIO/Projects/Knife Sharpener/include",
+                "/Users/janh/Documents/PlatformIO/Projects/Knife Sharpener/src",
+                "/Users/janh/Documents/PlatformIO/Projects/Knife Sharpener/.pio/libdeps/attiny85/L298N_MotorDriver/src",
+                "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/cores/tiny",
+                "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/variants/tinyX5",
+                "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/ATTinyCore/src",
+                "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/EEPROM",
+                "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/SPI",
+                "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo/src",
+                "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo_ATTinyCore/src",
+                "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/SoftwareSerial",
+                "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/Wire/src",
+                "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel",
+                "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel_Static",
+                "/Users/janh/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/janh/Documents/PlatformIO/Projects/Knife Sharpener/include",
+                    "/Users/janh/Documents/PlatformIO/Projects/Knife Sharpener/src",
+                    "/Users/janh/Documents/PlatformIO/Projects/Knife Sharpener/.pio/libdeps/attiny85/L298N_MotorDriver/src",
+                    "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/cores/tiny",
+                    "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/variants/tinyX5",
+                    "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/ATTinyCore/src",
+                    "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/EEPROM",
+                    "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/SPI",
+                    "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo/src",
+                    "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo_ATTinyCore/src",
+                    "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/SoftwareSerial",
+                    "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/Wire/src",
+                    "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel",
+                    "/Users/janh/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel_Static",
+                    "/Users/janh/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50203",
+                "ARDUINO_AVR_ATTINYX5",
+                "NEOPIXELPORT=PORTB",
+                "CLOCK_SOURCE=6",
+                "F_CPU=8000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATtiny85__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "/Users/janh/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=attiny85",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

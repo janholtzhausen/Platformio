@@ -1,0 +1,41 @@
+#######################################
+#	Syntax	Coloring	Map	For	StensTimer
+#######################################
+
+#######################################
+#	Datatypes	(KEYWORD1)
+#######################################
+
+IStensTimerListener	KEYWORD1
+StensTimer	KEYWORD1
+Timer	KEYWORD1
+
+#######################################
+#	Methods	and	Functions	(KEYWORD2)
+#######################################
+
+Timer	KEYWORD2
+deleteTimer	KEYWORD2
+deleteTimers	KEYWORD2
+equals	KEYWORD2
+getAction	KEYWORD2
+getDelay	KEYWORD2
+getId	KEYWORD2
+getInstance	KEYWORD2
+getLastCall	KEYWORD2
+getListener	KEYWORD2
+getRepetitions	KEYWORD2
+run	KEYWORD2
+setAction	KEYWORD2
+setDelay	KEYWORD2
+setInterval	KEYWORD2
+setStaticCallback	KEYWORD2
+deleteStaticCallback	KEYWORD2
+setLastCall	KEYWORD2
+setRepetitions	KEYWORD2
+setTimer	KEYWORD2
+timerCallback	KEYWORD2
+
+###########################################
+#	Constants	(LITERAL1)
+###########################################

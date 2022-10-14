@@ -1,0 +1,5 @@
+adafruit/MAX6675 library
+duinowitchery/hd44780
+paulstoffregen/OneWire
+milesburton/DallasTemperature
+arduino-libraries/LiquidCrystal@1.0.7
